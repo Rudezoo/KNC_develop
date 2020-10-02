@@ -1,0 +1,28 @@
+#banner_image{
+
+    background-image: url('/images/1.jpg');
+   
+    height: 300px;
+    background-size: cover;
+    
+
+
+    padding: 10px;
+
+}
+
+#header{
+    
+    
+    background-color: rgba( 255, 255, 255, 0.1 );
+    padding-Bottom:0;
+    border-Bottom: 1px rgba(0, 0, 0, 0.1) solid;
+    padding: 10px;
+   
+
+}
+
+#page{
+    margin-left: 20%;
+    margin-right: 20%;
+}
